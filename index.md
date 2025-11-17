@@ -5,6 +5,12 @@
 
 ---
 
+<style>
+html {
+  scroll-behavior: smooth;
+}
+</style>
+
 # Yeye Jin – Data Analysis Portfolio
 
 Welcome to my data analysis project page for my data science class. This site will collect the data sources, ideas, and visualizations I build across the semester.
