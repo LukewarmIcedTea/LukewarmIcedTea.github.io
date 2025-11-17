@@ -1,3 +1,7 @@
 title: "Yeye Jin – Data Analysis Portfolio"
-description: "Projects, data sources, and visualizations"
-theme: cayman
+description: "Projects, data sources, and visualizations for my data analysis class."
+
+remote_theme: pages-themes/cayman@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
